@@ -1,5 +1,5 @@
 # 💫 About Me:
- 📱 I'm mobile application developer.<br>🌱 I’m currently learning React Native.
+ 📱 I'm mobile application developer.<br>🌱 I am currently learning React Native and developing projects.
 
 
 ## 🌐 Socials:
